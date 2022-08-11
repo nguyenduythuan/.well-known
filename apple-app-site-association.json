@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NNDR3BZZMU.com.acuval",
+                "paths": ["*","/"]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [ "NNDR3BZZMU.com.acuval" ]
+    },
+    "activitycontinuation": {
+        "apps": [
+            "NNDR3BZZMU.com.acuval"
+        ]
+    },
+}
